@@ -39,4 +39,4 @@
 
 
 ## 🖱 **Personal Site**
-### [**Click Here.**](http://personal-site-ysfkblt.vercel.app/)
+### [**Click Here.**](http://andinov.ar)
